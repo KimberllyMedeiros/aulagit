@@ -2,18 +2,42 @@
  width: 100%;
  height: auto;
 font-weight: bold;
-color: #4d0c31;
+color: #5c1128;
 text-align: center;
 margin-bottom: 10%;
 background-color: beige;
 }
-.box{
-    color: rgb(151, 60, 124);
-    width: 100%; height: 50px;
+.box2{ color: #5c1128;
+    width: 800px; height: 10px; border: 1px; padding: 5px;
+}
+#box3{
+    width: 100% ;
+} 
+ .fotos{
+    width: 200px; 
+    height: 130px;
+    margin-top: 1.2%;
+    margin-bottom: 1%;
+    
+    }
+    .style{
+        background-color: #5c1128;
+
+    }
+#dog{
+    width: 180px;
+    height: 130px;
+    border-radius: 50%;
+
 
 }
-.box2{ color: rgb(151, 60, 124);
-    width: 100%; height: 10px;
+#secction-apresentacao{
+display: flex;
 }
-#box3{ margin: 12%; 
+.fotos-margem{
+    width: 200px; 
+    height: 130px;
+    margin-top: 1.2%;
+    margin-bottom: 1%;
+    margin-left: 30%;
 }
