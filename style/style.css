@@ -4,7 +4,7 @@
 font-weight: bold;
 color: #5c1128;
 text-align: center;
-background-color: beige;
+background-color:rgb(228, 193, 238);
 font-size:xx-large;
 }
 .box2{ color: #5c1128;
@@ -37,7 +37,16 @@ font-size:xx-large;
 display: flex;
 }
 #footer{
- background-color: beige;
+ background-color:rgb(228, 193, 238);
  height:100px ;
  color: #5c1128;
+}
+#section2{
+    height: 400px;
+}
+#section1{
+    height: 300px;
+}
+#body{
+    background-color: #f7d4a8;
 }
