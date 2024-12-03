@@ -23,9 +23,7 @@ font-size:xx-large;
     }
     .style{
         background-color: #5c1128;
-        margin-left: 5%;
-        margin-right: 5%;
-        padding: auto;
+     padding: auto;
 
     }
 #dog{
@@ -52,4 +50,8 @@ display: flex;
 }
 #body{
     background-color: #f7d4a8;
+}
+#div{
+    margin-left: 5%;
+    margin-right: 5%;
 }
