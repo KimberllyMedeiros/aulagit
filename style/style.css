@@ -15,14 +15,17 @@ font-size:xx-large;
    
 } 
  .fotos{
-    width: 230px; 
-    height: 150px;
+    width: 200px; 
+    height: 120px;
     margin-top: 1.2%;
     margin-bottom: 1%;
     
     }
     .style{
         background-color: #5c1128;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: auto;
 
     }
 #dog{
